@@ -1,5 +1,5 @@
 
-var traverse = require('traverse');
+var traverse = require('yields-traverse');
 
 
 /**
